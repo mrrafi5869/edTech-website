@@ -9,4 +9,12 @@ body{
     font-family: 'Poppins', sans-serif;
     
 }
+p{
+    color: gray;
+}
 /* common style ends */
+/* student feedback starts */
+.fa-star,.fa-star-half-stroke{
+    color: gold;
+}
+/* student feedback ends */

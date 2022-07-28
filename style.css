@@ -1,0 +1,13 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* common style starts */
+html{
+    scroll-behavior: smooth;
+}
+body{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    
+}
+/* common style ends */
+/* carouse item start here */
